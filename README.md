@@ -39,7 +39,7 @@ Procedure:
 2. Run the command `sbatch matlabSubmit.sh`.
 3. Check the status of the job with `squeue -u $USER`.
 4. If the job is finished, you might want to run `sacct -u $USER` to see if it finished.
-5. Use your favorite method (scp, winscp, mobaxterm, etc... to retrieve your results).
+5. Use your favorite method (scp, winscp, mobaxterm, etc...) to retrieve your results!
 
 ## Citations and Reading material
 [matlab help](https://www.mathworks.com/help/matlab/index.html)
