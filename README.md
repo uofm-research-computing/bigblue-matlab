@@ -30,7 +30,7 @@ Procedure:
 ## Batch
 The batch workflow is the most common workflow on large datasets for HPC environments. Submission to the scheduler means you can logout at anytime, wait for your job to finish, and login to check the results. The scheduler won't send you an email unless you include the following lines your sbatch submission script:
 ```
-#SBATCH --mail=username@memphis.edu
+#SBATCH --mail-user=username@memphis.edu
 #SBATCH --mail-type=ALL
 ```
 
