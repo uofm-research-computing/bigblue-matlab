@@ -4,9 +4,9 @@ There are two workflows for matlab:
 1. Interactive - run matlab application with either graphical user interface or command line interface
 2. Batch - run matlab with slurm batch command
 
-To initialize this example please SSH to bigblue and run:
+To initialize this example, please SSH to bigblue and run:
 ```
-git clone 
+git clone https://github.com/uofm-research-computing/bigblue-matlab.git
 ```
 
 ## Interactive
